@@ -16,6 +16,8 @@
 - 2.本项目不提倡每天利用脚本软件来刷《学习强国》积分。
 - 3.若每天一直使用，不保证不会具有封号风险。
 - 4.经向专业律师咨询，本声明有效，具有法律效力。
+
+
 **致谢**
 *排名不分先后*
 lgpersonal,kessi,ivanwhaf,studyhelperhelper,XiangyuTang等
